@@ -8,6 +8,7 @@ public abstract class AbstractA
 	static void meth3()
 	{
 		System.out.println("Normal method 3 called");
+		System.out.println("Rutika");
 	}
 	
 	void meth4()
